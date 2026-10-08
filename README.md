@@ -52,5 +52,3 @@ Install via **Sketch → Include Library → Manage Libraries**:
 - **LCD is blank:** change the address `0x27` to `0x3F` in the code, and adjust the contrast screw on the I2C module.
 - **Readings show 0 or garbage:** check the DHT11 wiring and the pin number.
 
-## License
-MIT License
