@@ -2,6 +2,8 @@
 
 A simple weather monitor that reads temperature and humidity from a DHT11 sensor and shows them on a 16x2 I2C LCD. Values are also printed to the Serial Monitor.
 
+![image alt](https://github.com/digbijoy1908/Weather-Monitor-Arduino/blob/5c7c093ff5d97474a6a2a8f9fe8bf683c2f8c345/Arduino%20Weather%20Monitor%20Showcase.jpg)
+
 ## Features
 - Live temperature (°C) and humidity (%) display
 - Custom degree symbol on the LCD
